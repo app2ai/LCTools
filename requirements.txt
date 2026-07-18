@@ -1,0 +1,25 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Hugging Face integration
+langchain-huggingface
+huggingface_hub
+transformers
+
+# Env variable management
+python-dotenv
+
+# vertex ai for Embedding models in google
+langchain-google-vertexai
+
+# Python validation library
+pydantic
+
+# Tools
+duckduckgo-search
